@@ -22,7 +22,7 @@ Here are some of the projects I've worked on:
 
 ## 📫 Get in Touch
 
-Feel free to reach out to me on [LinkedIn](your-linkedin-profile) or [Twitter](your-twitter-profile). I'm always open to collaborating on exciting projects or discussing new ideas!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/muhammad-al-ameen-musa-391850294?trk=contact-info) or [Twitter](your-twitter-profile). I'm always open to collaborating on exciting projects or discussing new ideas!
 
 ---
 
