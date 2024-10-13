@@ -10,6 +10,7 @@ I'm **Muhammad Al-amin Musa**, a Frontend Developer based in **Abuja**. I specia
 - **Languages**: JavaScript, HTML, CSS
 - **Frameworks**: React
 - **Tools**: Git, npm
+- **Backend Service**: Firebase
 - **Design**: Figma
 
 ## 🌟 Projects
@@ -30,7 +31,6 @@ Developed a tech blog platform using React.js, showcasing my learning journey in
 
 This project has significantly contributed to my growth as a developer.
 - [Project 2](link-to-your-project-2): A brief description of what this project does.
-- [Project 3](link-to-your-project-3): A brief description of what this project does.
 
 ## 📫 Get in Touch
 
