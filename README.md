@@ -16,7 +16,19 @@ I'm **Muhammad Al-amin Musa**, a Frontend Developer based in **Abuja**. I specia
 
 Here are some of the projects I've worked on:
 
-- [Project 1](link-to-your-project-1): A brief description of what this project does.
+- [Digital Dive](link-to-your-project-1): Digital Dive - Tech Blog Project
+
+Developed a tech blog platform using React.js, showcasing my learning journey in web development.
+
+*Key Responsibilities:*
+- Implemented a JSON server to fetch data from a local file, resolving initial challenges with the Fetch API.
+- Created a ScrollToTop component to enhance user experience by ensuring the page scrolls to the top on route changes.
+
+*Skills Acquired:*
+- Developed a modal component for improved interactivity.
+- Utilized CopyToClipboard functionality for user convenience.
+
+This project has significantly contributed to my growth as a developer.
 - [Project 2](link-to-your-project-2): A brief description of what this project does.
 - [Project 3](link-to-your-project-3): A brief description of what this project does.
 
