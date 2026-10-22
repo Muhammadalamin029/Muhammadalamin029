@@ -1,76 +1,50 @@
-# 👋 Hi there, I'm Muhammad Al-amin Musa!
+# Muhammad Al Amin Musa
 
-I'm a **Frontend Developer** based in **Abuja, Nigeria**, passionate about building beautiful, responsive, and functional web applications using **React** and other modern web technologies.
+**Full-Stack Developer · React · TypeScript · FastAPI**
 
----
+I build practical web applications and software products—from responsive interfaces to backend APIs. I enjoy turning real problems into useful, maintainable software and learning by shipping projects.
 
-## 🚀 Tech Stack
+- 📍 Nigeria
+- 🎓 Computer Science student at the Federal University of Technology, Minna
+- 🌱 Currently building and improving products across web and backend development
+- 🤝 Open to meaningful collaborations, freelance work, and software engineering opportunities
 
-**Languages:**  
-JavaScript · HTML · CSS · Python
+## Tech I work with
 
-**Frameworks & Libraries:**  
-React · React Native
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS  
+**Backend:** Python, FastAPI, Supabase, PostgreSQL, Firebase  
+**Other:** React Native, Expo, REST APIs, GraphQL, Git, GitHub
 
-**Tools & Services:**  
-Git · npm · Firebase · Supabase
+## Selected projects
 
-**Design & Prototyping:**  
-Figma
+### [Bevis](https://trybevis.vercel.app)
+A developer-focused product built around turning GitHub activity into shareable development updates.  
+[Live app](https://trybevis.vercel.app) · [Frontend](https://github.com/Muhammadalamin029/bevis-frontend) · [Backend](https://github.com/Muhammadalamin029/bevis-backend)
 
----
+### [LEL Store](https://lelstore.con)
+A client e-commerce platform with product discovery and shopping workflows across multiple product categories. I have worked across its frontend and backend.  
+[Frontend repository](https://github.com/Muhammadalamin029/alhaq-frontend) · [Backend repository](https://github.com/Muhammadalamin029/alhaq-backend) · [Mobile app repository](https://github.com/Muhammadalamin029/lel-marketplace)
 
-## 🌟 Featured Projects
+### [Oron](https://oron-marketplace.vercel.app)
+A marketplace project with a web frontend and a separate backend.  
+[Live app](https://oron-marketplace.vercel.app) · [Frontend](https://github.com/Muhammadalamin029/oron) · [Backend](https://github.com/Muhammadalamin029/oron_backend)
 
-### 📰 [Digital Dive](https://github.com/Muhammadalamin029/digital-dive)
-A **tech blog platform** built with React.js that showcases my learning journey and development insights.
+### [DevAssist](https://dev-assist-apply-ai.vercel.app)
+An AI-assisted job application tool designed to help users turn job descriptions and their experience into tailored application content.  
+[Live app](https://dev-assist-apply-ai.vercel.app)
 
-**Highlights:**
-- Integrated a JSON server to simulate a real backend.
-- Built a reusable modal component and a `ScrollToTop` feature.
-- Added copy-to-clipboard functionality for easy content sharing.
+## Experience
 
-**Skills Gained:**
-- Routing with React Router, working with APIs, and improving UI/UX.
+- **Frontend Developer — Labtraca**: Worked on frontend interfaces, GraphQL/Apollo integration, and generating downloadable lab-result PDFs.
+- **Frontend Developer Intern — SyncU**: December 2024 – February 2025.
 
----
+## Connect
 
-### 💼 [DevJobs](https://github.com/Muhammadalamin029/devjobs)
-A **modern job listing platform** inspired by the DevJobs challenge on Frontend Mentor.
-
-**Highlights:**
-- Developed using React, Zustand, and Tailwind CSS.
-- Built with a clean and tech-oriented UI for job seekers.
-- Features filtering by role, contract, and location.
-
-**Skills Gained:**
-- Zustand for state management, responsive layouts, and Tailwind best practices.
-
----
-
-### 🔗 [Shortly](https://github.com/Muhammadalamin029/url-shortly)
-A **link shortener web app** that helps users quickly shorten URLs with a beautiful UI.
-
-**Highlights:**
-- Built with React and integrated with the shrtcode API.
-- Users can generate, copy, and manage shortened URLs.
-- Fully responsive across devices.
-
-**Skills Gained:**
-- API integration, form handling, and React UI state updates.
+- [LinkedIn](https://www.linkedin.com/in/ameenumhusah/)
+- [X](https://x.com/Muhammad286262)
+- [Portfolio](https://github.com/Muhammadalamin029/personal_portfolio)
+- [GitHub repositories](https://github.com/Muhammadalamin029?tab=repositories)
 
 ---
 
-## 📫 Let’s Connect!
-
-I’m always open to **collaboration**, **learning opportunities**, and **exciting projects**!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-al-ameen-musa-391850294?trk=contact-info)  
-- 🐦 [Twitter (X)](https://x.com/Muhammad286262?t=jZtA7ApKNMNr3juoCDcmzQ&s=09)
-
----
-
-<!---
-Muhammadalamin029/Muhammadalamin029 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*I believe in building useful things, improving through practice, and keeping the work focused on solving real problems.*
